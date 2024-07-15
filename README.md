@@ -34,23 +34,11 @@ Per garantire una maggiore chiarezza e manutenzione del codice, ho adottato la m
 - **Element:** rappresenta una parte di un blocco che ha una funzione specifica (es. `header__logo`, `sidebar__item`).
 - **Modifier:** rappresenta una variazione di un blocco o un elemento (es. `header--large`, `sidebar__item--active`).
 
-## Struttura del Progetto
-
-Il progetto è organizzato come segue:
-
-css-training/
-├── css/
-│ ├── main.css
-│ ├── header.css
-│ ├── sidebar.css
-│ └── animations.css
-├── index.html
-└── README.md
 
 markdown
 Copia codice
 
-- `css/`: Contiene tutti i file CSS.
+- `style.css`: Contiene tutte le classi CSS.
 - `index.html`: Il file HTML principale che include gli stili.
 - `README.md`: Questo file di documentazione.
 
@@ -59,4 +47,4 @@ Copia codice
 Per esplorare il mio lavoro, puoi clonare il repository:
 
 ```sh
-git clone https://github.com/tuo-username/css-training.git
+git clone https://github.com/MaxPerona/CSS.git
