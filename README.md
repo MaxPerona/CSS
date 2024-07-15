@@ -35,9 +35,7 @@ Per garantire una maggiore chiarezza e manutenzione del codice, ho adottato la m
 - **Modifier:** rappresenta una variazione di un blocco o un elemento (es. `header--large`, `sidebar__item--active`).
 
 
-markdown
-Copia codice
-
+## Tree delle cartelle
 - `style.css`: Contiene tutte le classi CSS.
 - `index.html`: Il file HTML principale che include gli stili.
 - `README.md`: Questo file di documentazione.
